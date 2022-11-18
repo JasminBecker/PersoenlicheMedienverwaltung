@@ -1,0 +1,8 @@
+C:\Users\jadib\OneDrive\Desktop\PGC\Projekt\Medienverwaltung\Medienverwaltung\obj\Debug\Medienverwaltung.csproj.AssemblyReference.cache
+C:\Users\jadib\OneDrive\Desktop\PGC\Projekt\Medienverwaltung\Medienverwaltung\obj\Debug\Medienverwaltung.csproj.SuggestedBindingRedirects.cache
+C:\Users\jadib\OneDrive\Desktop\PGC\Projekt\Medienverwaltung\Medienverwaltung\obj\Debug\Medienverwaltung.csproj.CoreCompileInputs.cache
+C:\Users\jadib\OneDrive\Desktop\PGC\Projekt\Medienverwaltung\Medienverwaltung\bin\Debug\Medienverwaltung.exe.config
+C:\Users\jadib\OneDrive\Desktop\PGC\Projekt\Medienverwaltung\Medienverwaltung\bin\Debug\Medienverwaltung.exe
+C:\Users\jadib\OneDrive\Desktop\PGC\Projekt\Medienverwaltung\Medienverwaltung\bin\Debug\Medienverwaltung.pdb
+C:\Users\jadib\OneDrive\Desktop\PGC\Projekt\Medienverwaltung\Medienverwaltung\obj\Debug\Medienverwaltung.exe
+C:\Users\jadib\OneDrive\Desktop\PGC\Projekt\Medienverwaltung\Medienverwaltung\obj\Debug\Medienverwaltung.pdb
